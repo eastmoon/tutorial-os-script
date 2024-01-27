@@ -1,2 +1,12 @@
 # tutorial-os-script
-Tutorial and learning report with operating system script programming.
+
+作業系統對應腳本語法練習與腳本範本。
+
+## 簡介
+
+作業系統本質是一套軟體的聚合體，其上所有軟體都是基於作業系統提供的基礎指令、工具、驅動等服務來運行，因此，若要對作業系統提供的服務除了軟體本身對系統的操作語法外，可以使用作業系統本身的腳本機制來撰寫對作業系統服務的邏輯操作與工作流，並以此來設計對系統的自動化與軟體啟動前的前置處理。
+
++ Windows：batch script
++ Linux / Mac ：shell script
+
+## 文獻
