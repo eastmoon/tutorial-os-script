@@ -31,6 +31,11 @@
 
 ### 應用 ( Application )
 
-+
+基於前述項目的進階運用
+
++ [函數呼叫者檢索](./src/linux/app/called)
++ [序號檔產生](./src/linux/app/serial-number)
++ [try-catch 架構](./src/linux/app/try-catch)
++ [執行變數腳本](./src/linux/app/script-runner)
 
 ## 文獻
