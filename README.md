@@ -29,6 +29,18 @@
 
 + [Linux](./src/linux/file-operate)
 
+### 重導向 ( Redirection )
+
+在 Console 若要輸出入文字、錯誤訊息，會基於 stdout、stdin、stderr 這些標準訊息指標 ( fp ) 顯示至目標，而若要將此些訊息輸出至某些檔案則稱為重導向 ( Redirection )。
+
++ [Linux I/O 輸入與輸出重新導向，基礎概念教學](https://blog.gtwang.org/linux/linux-io-input-output-redirection-operators/)
++ [An Introduction to Linux I/O Redirection](https://www.digitalocean.com/community/tutorials/an-introduction-to-linux-i-o-redirection)
+    - [How to redirect standard (stderr) error in bash](https://www.cyberciti.biz/faq/how-to-redirect-standard-error-in-bash/)
+
+範本程式：
+
++ [Linux](./src/linux/redirection)
+
 ### 應用 ( Application )
 
 基於前述項目的進階運用
