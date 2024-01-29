@@ -2,6 +2,7 @@
 cache/
 **/__pycache__/
 *.log
+*.tmp
 
 # third-party library
 
